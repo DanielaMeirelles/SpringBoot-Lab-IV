@@ -31,8 +31,8 @@ public class UsuarioService {
         repo.save(usuario);
         return usuario;
     }
-    public Usuario buscarPorId(Long Id) {
-        Optional<Usuario> usuarioOp = repo.findById(Id);
+    public Usuario buscarPorId(Long id) {
+        Optional<Usuario> usuarioOp = repo.findById(id);
         if(usuarioOp.isEmpty()) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Id não encontrado!");
         }
