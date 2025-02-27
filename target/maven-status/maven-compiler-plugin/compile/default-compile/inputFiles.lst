@@ -1,5 +1,7 @@
 /workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/Lab4Application.java
 /workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/controller/UsuarioController.java
+/workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/entity/Anotacao.java
+/workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/entity/Autorizacao.java
 /workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/entity/Usuario.java
 /workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/repository/UsusarioRepository.java
 /workspaces/SpringBoot-Lab-IV/src/main/java/br/gov/sp/fatec/lab4/service/UsuarioService.java
