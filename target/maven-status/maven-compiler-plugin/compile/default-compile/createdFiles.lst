@@ -1,7 +1,11 @@
 br/gov/sp/fatec/lab4/service/UsuarioService.class
 br/gov/sp/fatec/lab4/controller/UsuarioController.class
 br/gov/sp/fatec/lab4/Lab4Application.class
+br/gov/sp/fatec/lab4/entity/View$UsuarioCompleto.class
+br/gov/sp/fatec/lab4/entity/View$AnotacaoSimplicada.class
+br/gov/sp/fatec/lab4/entity/View.class
 br/gov/sp/fatec/lab4/entity/Usuario.class
 br/gov/sp/fatec/lab4/entity/Anotacao.class
+br/gov/sp/fatec/lab4/entity/View$UsuarioSimplificado.class
 br/gov/sp/fatec/lab4/repository/UsusarioRepository.class
 br/gov/sp/fatec/lab4/entity/Autorizacao.class
